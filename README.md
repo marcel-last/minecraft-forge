@@ -1,5 +1,5 @@
 # Minecraft Forge Containerized
-This project is a Docker project of Minecraft Forge.
+This is a containerized version of Minecraft Forge.
 
 
 ## Minecraft Forge Libraries and Configuration
